@@ -18,7 +18,7 @@ If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "w
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A9E5VNRBMVBCS">Even the smallest donations will be gratefully accepted if you wish to click here</a>.  <strong>Donations help to continue and support future upgrades and releases.</strong>  Please consider donating if you are extremely pleased with this plugin and will continue using it on your site; especially if you are operating a commercial website.  Thank you!
 
-<a target="_blank"> ahref="http://wordpress.org/extend/plugins/simple-tinymce-button-upgrade/">You can check out my more advanced plugin here;</a> which offers this same great feature, as well as MANY more powerful add-ons to the visual editor.
+<a href="http://wordpress.org/extend/plugins/simple-tinymce-button-upgrade/" target="_blank">You can check out my more advanced plugin here;</a> which offers this same great feature, as well as MANY more powerful add-ons to the visual editor.
 
 == Installation ==
 

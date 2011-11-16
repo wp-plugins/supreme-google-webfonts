@@ -63,14 +63,14 @@ Author URI: http://joshlobe.com
 	/*
      * register with hook 'wp_print_styles'
      */
-    add_action('admin_print_styles', 'add_my_stylesheet');
-	add_action('wp_print_styles', 'add_my_stylesheet');
+    add_action('admin_print_styles', 'add_josh_stylesheet');
+	add_action('wp_print_styles', 'add_josh_stylesheet');
 
     /*
      * Enqueue style-file, if it exists.
      */
 
-    function add_my_stylesheet() {  // Calls included stylesheet for the import urls of each google font.
+    function add_josh_stylesheet() {  // Calls included stylesheet for the import urls of each google font.
         $myStyleUrl = plugins_url('josh-font-style.css', __FILE__); // Respects SSL, Style.css is relative to the current file
         $myStyleFile = WP_PLUGIN_DIR . '/supreme-google-webfonts/josh-font-style.css';
         if ( file_exists($myStyleFile) ) {

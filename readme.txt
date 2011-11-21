@@ -20,6 +20,10 @@ If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "w
 
 <a href="http://wordpress.org/extend/plugins/simple-tinymce-button-upgrade/" target="_blank">You can check out my more advanced plugin here;</a> which offers this same great feature, as well as MANY more powerful add-ons to the visual editor.
 
+<strong>UPDATE:</strong>  After releasing this plugin, I have noticed calling the google webfont directory adds about two to three seconds to page load time.  This is because each font makes a separate call to google to access the font.  I am working on a method which will allow you to choose which fonts to include and not have to call the other, unnecessary fonts from google.
+
+Please be patient as I find a workaround.  
+
 == Installation ==
 
 1. Upload the plugin to your 'wp-content/plugins' directory, or download and install automatically through your admin panel.

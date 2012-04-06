@@ -10,15 +10,12 @@ Description: Adds all 291 Google Webfonts into your visual editor panel when cre
 
 == Description ==
 
-This plugin simply activates, and makes accessible the ENTIRE Google Webfonts repository.  Your visual editor will show a new, third row with an easy drop-down list for choosing fonts.
+<strong>UPDATE:</strong>
+After releasing this plugin, I have noticed calling the google webfont directory adds about two to three seconds to page load time.  This is because each font makes a separate call to google to access the font.  I am working on a method which will allow you to choose which fonts to include and not have to call the other, unnecessary fonts from google.
 
-I also added a box for font size selection... they seem to go hand in hand.
-
-If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "works" if you are indeed satisfied with the plugin.  Thank you.
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A9E5VNRBMVBCS">Even the smallest donations will be gratefully accepted if you wish to click here</a>.  <strong>Donations help to continue and support future upgrades and releases.</strong>  Please consider donating if you are extremely pleased with this plugin and will continue using it on your site; especially if you are operating a commercial website.  Thank you!
-
-<a target="_blank"> ahref="http://wordpress.org/extend/plugins/simple-tinymce-button-upgrade/">You can check out my more advanced plugin here;</a> which offers this same great feature, as well as MANY more powerful add-ons to the visual editor.
+<strong>Update: (04-06-12)</strong>
+I have created a MUCH better custom Google webfonts plugin.  Find out more information by clicking the link below:
+http://www.plugins.joshlobe.com/ultimate-tinymce-google-webfonts/  
 
 == Installation ==
 

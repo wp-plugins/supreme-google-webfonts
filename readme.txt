@@ -1,5 +1,5 @@
 === Supreme Google Webfonts ===
-Contributors: Josh Lobe 
+Contributors: Josh Lobe, igmoweb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A9E5VNRBMVBCS
 Tags: google webfonts, google web fonts, fonts, webfonts, visual editor, tinymce, upgrade, admin
 Requires at least: 3.2.1

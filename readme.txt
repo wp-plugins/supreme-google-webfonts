@@ -47,8 +47,10 @@ If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "w
 = 2.0 =
 
 * Plugin totally recoded
-* Fonts are loaded in a much better way. Sites are now much faster.
+* Improved performance.
+* Added more fonts.
 * New settings in Settings > Writing
+* Added filters to simplify the list of fonts
 * Fixed issue in WP > 3.9
 
 = 1.1 =

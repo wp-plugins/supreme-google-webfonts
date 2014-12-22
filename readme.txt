@@ -1,5 +1,5 @@
 === Supreme Google Webfonts ===
-Contributors: Josh Lobe 
+Contributors: Josh Lobe, igmoweb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A9E5VNRBMVBCS
 Tags: google webfonts, google web fonts, fonts, webfonts, visual editor, tinymce, upgrade, admin
 Requires at least: 3.2.1
@@ -34,8 +34,8 @@ If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "w
 
 == Screenshots ==
 
-1. <strong>Shows the backend view with the font drop-down list and the size select list.</strong>
-2. <strong>Displays what the user views from the front-end.  Fonts are displayed consistently across browsers.</strong>
+1. Shows the backend view with the font drop-down list and the size select list.
+2. Settings>Writing options. Here's where you should check all those fonts that you are going to use in your site. Remember, the fewer fonts checked, the faster your site will run.
 
 == Features ==
 

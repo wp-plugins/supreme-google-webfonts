@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: google webfonts, google web fonts, fonts, webfonts, visual editor, tinymce, upgrade, admin
 Requires at least: 3.2.1
 Tested up to: 4.1
-Stable tag: 2.0
+Stable tag: 2.0.1
 
 Description: Adds all Google Webfonts into your visual editor panel when creating posts or pages.  Now you have access to almost 700 universal, cross-browser compatible fonts.
 
@@ -43,6 +43,10 @@ If you like this plugin, <strong>Please Leave A Rating</strong>.  Also, click "w
 
 
 == Changelog ==
+
+= 2.0.1 
+
+* Fixed: When many fonts were selected, not all of theme were being enqueued.
 
 = 2.0 =
 

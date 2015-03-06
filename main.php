@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/supreme-google-webfonts/
  * Description: Adds all currently available Google webfonts into a nice dropdown list in your visual editor.  Simply select your Google Webfont and apply it to your text.  Also includes font size selection to apply to Google Webfonts.
  * Author: Josh Lobe, igmoweb
- * Version: 2.0
+ * Version: 2.0.1
  * License: GPL2
  * Text Domain: sgf
  * Domain Path: /lang/
@@ -75,6 +75,7 @@ class Supreme_Google_Webfonts {
 		$i = 1;
     	foreach ( $urls as $url ) {
 			wp_enqueue_style( 'sgf-google-fonts-' . $i, $url );
+			$i++;
     	}
     }
 
